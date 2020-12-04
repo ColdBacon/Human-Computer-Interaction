@@ -1,1 +1,3 @@
-# Human Computer Interaction Project
+## Human Computer Interaction Project
+
+Coins and banknotes recognition.
