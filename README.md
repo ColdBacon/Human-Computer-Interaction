@@ -1,3 +1,3 @@
-## Human Computer Interaction Project
+## Human-Computer Interaction Project
 
-Coins and banknotes recognition.
+Detection and classification of coins and banknotes. The application calculates the amount of money shown in the photo.
